@@ -22,7 +22,7 @@ Warning: YEPclicker might be detectable in a SS or by BAC, LAC and CB. There is 
 
 Click to view:
 
-[![UPDATE VIDEO](https://img.youtube.com/vi/6xPk6EXajRY/0.jpg)](https://www.youtube.com/watch?v=6xPk6EXajRY)
+[![UPDATE VIDEO](https://i.ytimg.com/vi/6xPk6EXajRY/maxresdefault.jpg)](https://www.youtube.com/watch?v=6xPk6EXajRY)
 
 ## HOW TO USE YEPclicker
 
