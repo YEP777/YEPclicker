@@ -20,7 +20,11 @@ Warning: YEPclicker might be detectable in a SS or by BAC, LAC and CB. There is 
 + Ported from Visual Basic to C#
 + Temporarely removed all functionality (I still have to recode it in C#)
 
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=6xPk6EXajRY)](https://www.youtube.com/watch?v=6xPk6EXajRY "YEP CLICKER v.0.2 GUI UPDATE")
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=6xPk6EXajRY" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 ## HOW TO USE YEPclicker
 
