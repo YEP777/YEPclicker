@@ -1,7 +1,3 @@
-## YEPclicker
-
-YEPclicker is the best free Autoclicker for Minecraft.
-
 ## FEATURES
 + Randimzed Cps
 + CPS Spikes
@@ -15,12 +11,15 @@ YEPclicker is the best free Autoclicker for Minecraft.
 + 100% Free
 + Frequent Updates
 
-Warning: YEPclicker might be detectable in SS.
+Warning: YEPclicker might be detectable in a SS or by BAC, LAC and CB. There is a chance it won't get detected but I can't guarantee it.
 
-## PATCHNOTES
-Text version: [Link]Patchnotes("https://textbin.online/raw/j6GjdhZ8tv")
+## PATCHNOTES FOR YEPclicker v.0.2
 
-Video version:
+-Changed name from 420clicker to YEPclicker
+-Complete GUI remake
+-Ported from Visual Basic to C#
+-Temporarely removed all functionality (I still have to recode it in C#)
+
 
 ## HOW TO USE YEPclicker
 
@@ -28,4 +27,4 @@ Guide coming soon!
 
 ## DOWNLOAD
 
-Download link:
+Download coming soon!
