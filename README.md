@@ -13,6 +13,19 @@ YEPclicker is the best free Autoclicker for Minecraft.
 + Super Randomization
 + Self Destruct
 + 100% Free
-+ Frequently updated
++ Frequent Updates
 
-- SS detectable
+Warning: YEPclicker might be detectable in SS.
+
+## PATCHNOTES
+Text version: [Link]Patchnotes("https://textbin.online/raw/j6GjdhZ8tv")
+
+Video version:
+
+## HOW TO USE YEPclicker
+
+Guide coming soon!
+
+## DOWNLOAD
+
+Download link:
