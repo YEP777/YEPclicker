@@ -15,10 +15,10 @@ Warning: YEPclicker might be detectable in a SS or by BAC, LAC and CB. There is 
 
 ## PATCHNOTES FOR YEPclicker v.0.2
 
--Changed name from 420clicker to YEPclicker
--Complete GUI remake
--Ported from Visual Basic to C#
--Temporarely removed all functionality (I still have to recode it in C#)
++ Changed name from 420clicker to YEPclicker
++ Complete GUI remake
++ Ported from Visual Basic to C#
++ Temporarely removed all functionality (I still have to recode it in C#)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6xPk6EXajRY/0.jpg)](https://www.youtube.com/watch?v=6xPk6EXajRY)
 
