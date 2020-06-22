@@ -21,6 +21,7 @@ Warning: YEPclicker might be detectable in a SS or by BAC, LAC and CB. There is 
 + Temporarely removed all functionality (I still have to recode it in C#)
 
 Click to view:
+
 [![UPDATE VIDEO](https://img.youtube.com/vi/6xPk6EXajRY/0.jpg)](https://www.youtube.com/watch?v=6xPk6EXajRY)
 
 ## HOW TO USE YEPclicker
