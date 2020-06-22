@@ -1,3 +1,7 @@
+## YEPclicker
+
+YEPclicker is the best free autoclicker for Minecraft! It is even better than some paid clickers.
+
 ## FEATURES
 + Randimzed Cps
 + CPS Spikes
